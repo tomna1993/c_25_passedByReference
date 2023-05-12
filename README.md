@@ -24,7 +24,7 @@ int callMyFunc(int variable)
 }
 ```
 
-With arrays the function will get the actual array we declared so we have to be careful to not change its value in a function call.
+With arrays the function will get the actual array we declared so we have to be careful to not change its value in a function.
 
 ```c
 int main(void)
